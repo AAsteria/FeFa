@@ -1,0 +1,9 @@
+bin/
+obj/
+
+*.nuget.g.props
+*.nuget.g.targets
+*.dgspec.json
+project.assets.json
+project.nuget.cache
+.fake
